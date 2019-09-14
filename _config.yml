@@ -31,7 +31,8 @@ github_username:  name
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme"
+#theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
